@@ -1,7 +1,7 @@
 {
-  "name": "2026 소년부 여름성경캠프 자봉",
+  "name": "2026자봉",
   "short_name": "2026자봉",
-  "description": "소년부 여름성경캠프 자원봉사자 봉사",
+  "description": "소년부 여름성경캠프 자원봉사자",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
